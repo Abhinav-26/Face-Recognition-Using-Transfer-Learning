@@ -1,1 +1,2 @@
 # Face-Recognisation-Using-Transfer-Learning
+In this directory I have created a Face Recognisation Model using the concepts of Transfer Learning. I have created a real-time face detection system which can detect your face at real time and predict the accurcay too. In this Project I have used the concepts of transfer Learning and did a fine tuning to a pre-trained model. For detecting the face I have used LBPH Frontal Face haarClassifier.
