@@ -6,3 +6,5 @@ In this directory I have created a Face Recognisation Model using the concepts o
 2. Create your own dataset<br>
 3. Run Model Creating notebook to create your own model<br>
 4. Load the model Created and run Face Recognisation to detect the file.
+
+<b>Note</b> : You might encounter some error in the Face Recognisation code. I am trying to solve those erros as soon as possible.
