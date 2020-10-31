@@ -7,4 +7,4 @@ In this directory I have created a Face Recognisation Model using the concepts o
 3. Run Model Creating notebook to create your own model<br>
 4. Load the model Created and run Face Recognisation to detect the file.
 
-<b>Note</b> : You might encounter some errors in the code. I am trying to solve these errors as soon as possible.
+<b>Note</b> : Some errors can be incurred during the process of installation and run , I am still working on it.
